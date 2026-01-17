@@ -1,6 +1,6 @@
 
 
-### ***Kitchen Timer v1***
+### ***Rolling the Dice***
 In this project, I created an Arduino circuit that simulates a dice roll and displays the result on LEDs and an LCD display.
 
 See for yourself: https://www.tinkercad.com/things/61lj3Y2cs93-dice-roll
